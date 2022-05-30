@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cerv-new/static/css/main.91559cd4.css",
-    "main.js": "/cerv-new/static/js/main.0c1c33e0.js",
+    "main.css": "/cerv-new/static/css/main.574a1d6b.css",
+    "main.js": "/cerv-new/static/js/main.228d271f.js",
     "static/media/home-decor-3.jpg": "/cerv-new/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
     "static/media/home-decor-2.jpg": "/cerv-new/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
     "static/media/home-decor-1.jpg": "/cerv-new/static/media/home-decor-1.05e218fd495ccc65c99d.jpg",
@@ -24,11 +24,11 @@
     "static/media/logo-jira.svg": "/cerv-new/static/media/logo-jira.c19fd4e416babfbd0fdb0a794188c601.svg",
     "static/media/logo-atlassian.svg": "/cerv-new/static/media/logo-atlassian.f2b0e8570a4b4ce768854ff3dad1a6e1.svg",
     "index.html": "/cerv-new/index.html",
-    "main.91559cd4.css.map": "/cerv-new/static/css/main.91559cd4.css.map",
-    "main.0c1c33e0.js.map": "/cerv-new/static/js/main.0c1c33e0.js.map"
+    "main.574a1d6b.css.map": "/cerv-new/static/css/main.574a1d6b.css.map",
+    "main.228d271f.js.map": "/cerv-new/static/js/main.228d271f.js.map"
   },
   "entrypoints": [
-    "static/css/main.91559cd4.css",
-    "static/js/main.0c1c33e0.js"
+    "static/css/main.574a1d6b.css",
+    "static/js/main.228d271f.js"
   ]
 }
